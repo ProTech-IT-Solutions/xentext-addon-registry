@@ -1,5 +1,5 @@
-# glitch-community-addon-registry
-The registry for community submitted addons for glitchdotcom
+# Xentext addon registry
+The registry for community submitted addons for xentext 2.0.0 (lsr)
 
 ----
 
